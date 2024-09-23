@@ -1,3 +1,5 @@
+![HR Dashboard](https://github.com/manas74/Hr_Dashboard_project/blob/main/HR_Dashboard_img.jpg)
+
 # HR Analytics Dashboard - Power BI Project
 
 ## Problem Statement:
